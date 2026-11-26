@@ -46,6 +46,7 @@ ConBridge is a hosted service. **This repository holds no server code**: it is t
 
 - **Cline:** see [llms-install.md](llms-install.md).
 - **Google Antigravity:** `agy plugin install https://github.com/arven-soft/conbridge-antigravity`
+- **Gemini CLI:** `gemini extensions install https://github.com/arven-soft/conbridge-gemini`, then `/mcp auth conbridge`
 - **Any other MCP client:** add a remote (Streamable HTTP) server with the URL `https://mcp.conbridge.app/mcp` and no headers:
 
   ```json
