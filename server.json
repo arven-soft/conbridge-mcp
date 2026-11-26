@@ -1,0 +1,8 @@
+{
+  "name": "app.conbridge/conbridge",
+  "title": "ConBridge",
+  "description": "Known vulnerabilities on the systems you own, fixed from your AI app with your approval.",
+  "version": "1.0.0",
+  "websiteUrl": "https://conbridge.app/product/mcp-server",
+  "remotes": [{ "type": "streamable-http", "url": "https://mcp.conbridge.app/mcp" }]
+}
