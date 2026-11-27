@@ -1,5 +1,7 @@
 # ConBridge MCP server
 
+[![ConBridge MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/app.conbridge/conbridge/badges/score.svg)](https://glama.ai/mcp/connectors/app.conbridge/conbridge)
+
 ConBridge connects your AI app to the computers, servers and CMS sites you own. In the AI app you can:
 
 - read the known vulnerabilities ConBridge found on each system;
