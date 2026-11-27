@@ -47,6 +47,7 @@ ConBridge is a hosted service. **This repository holds no server code**: it is t
   ```
 
 - **Cline:** see [llms-install.md](llms-install.md).
+- **Kiro:** [![Add ConBridge MCP server to Kiro](https://kiro.dev/images/add-to-kiro.svg)](https://kiro.dev/launch/mcp/add?name=conbridge&config=%7B%22url%22%3A%22https%3A%2F%2Fmcp.conbridge.app%2Fmcp%22%2C%22disabled%22%3Afalse%2C%22autoApprove%22%3A%5B%5D%7D), or with the Kiro CLI: `kiro-cli mcp add --name conbridge --url https://mcp.conbridge.app/mcp --scope global`
 - **Google Antigravity:** `agy plugin install https://github.com/arven-soft/conbridge-antigravity`
 - **Gemini CLI:** `gemini extensions install https://github.com/arven-soft/conbridge-gemini`, then `/mcp auth conbridge`
 - **Any other MCP client:** add a remote (Streamable HTTP) server with the URL `https://mcp.conbridge.app/mcp` and no headers:
